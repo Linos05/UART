@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../../../VSC/EidP/Labor_1"
+		},
+		{
+			"name": "Test",
+			"path": "../../Test"
+		},
+		{
+			"name": "UART",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
